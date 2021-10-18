@@ -1,3 +1,15 @@
+# v3.7.9
+## 09/25/2021
+
+1. [](#improved)
+    * Relocated support for NextGen Editor custom media embeds to 'site.js' file to properly support script asset loading
+
+# v3.7.8
+## 08/06/2021
+
+1. [](#bugfix)
+    * Added check for <a> (anchor tag) without href attribute
+
 # v3.7.7
 ## 06/16/2021
 
