@@ -1,9 +1,9 @@
 ---
 title: Liberating Structures
 order:
-    by: date
+    by: folder
     dir: asc
-date: '10-02-2021 22:36'
+date: 
 date_format: 'd F'
 locale: en
 hide_page_title: false
