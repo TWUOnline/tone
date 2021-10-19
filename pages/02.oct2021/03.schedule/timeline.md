@@ -1,20 +1,17 @@
 ---
-title: Schedule
+title: Liberating Structures
 order:
     by: date
     dir: asc
-date: '10-02-2021 22:36'
 date_format: 'd F'
 locale: en
 hide_page_title: false
 show_sidebar: true
 hide_git_sync_repo_link: false
-published: false
+published: true
 
 ---
 
-Here is an overview of the synchronous sessions we'll be facilitating during this mini-course. Each meeting will be a preview of the following 2-weeks of course content and activities.
+In our 2 hour workshop, participates will engage in a few activities from [Liberating Structures](https://www.liberatingstructures.com/ls-menu).  These structured activities help us unlock key ideas, remove barriers in conversation, and solve problems with a collaborative approach.
 
-[See the Moodle course site for a link to Zoom.](https://learn.twu.ca/course/view.php?id=17949)
-
-All meetings are at 11:00 AM Pacific time.
+Click on the following activities for instructions.  Also see About Liberating Structures for more guidance on how to use LS in your course.
