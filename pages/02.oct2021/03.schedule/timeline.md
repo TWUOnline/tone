@@ -3,6 +3,10 @@ title: Liberating Structures
 order:
     by: date
     dir: asc
+<<<<<<< HEAD
+=======
+date: '10-28/29-2021'
+>>>>>>> 3d51e6681f4c15c21624332369e44689de6feab7
 date_format: 'd F'
 locale: en
 hide_page_title: false
