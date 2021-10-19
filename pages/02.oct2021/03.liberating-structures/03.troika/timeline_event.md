@@ -1,7 +1,5 @@
 ---
 title: 'Troika'
-date: 
-date_format: 'd F'
 locale: en
 hide_page_title: false
 show_sidebar: true

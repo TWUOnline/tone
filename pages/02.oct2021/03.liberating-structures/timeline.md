@@ -3,8 +3,6 @@ title: Liberating Structures
 order:
     by: folder
     dir: asc
-date: 
-date_format: 'd F'
 locale: en
 hide_page_title: false
 show_sidebar: true
