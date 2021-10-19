@@ -1,6 +1,6 @@
 ---
 title: 'TRIZ'
-date: '09-04-2021 11:00'
+date: 
 date_format: 'd F'
 locale: en
 hide_page_title: false

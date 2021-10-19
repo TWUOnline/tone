@@ -1,6 +1,6 @@
 ---
 title: 'What, So What, Now What?'
-date: '26-03-2021 11:00'
+date: 
 date_format: 'd F'
 locale: en
 hide_page_title: false
