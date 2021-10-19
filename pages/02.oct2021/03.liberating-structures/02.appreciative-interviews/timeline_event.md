@@ -1,6 +1,6 @@
 ---
 title: 'Appreciative Interviews'
-date: '12-02-2021 11:00'
+date: 
 date_format: 'd F'
 locale: en
 hide_page_title: false
