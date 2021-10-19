@@ -25,8 +25,8 @@ cache_enable: false
 #### :fa-user: Colin Madland  
 [safe-email autolink="true"]colin.madland@twu.ca[/safe-email]  
 
-#### :fa-user: Karen Roeck  
-[safe-email autolink="true"]karen.roeck@twu.ca[/safe-email]  
+#### :fa-user: Kelly Marjanovic  
+[safe-email autolink="true"]kelly.marjanovic@twu.ca[/safe-email]  
 
 #### :fa-user: Jeffrey Snider
 [safe-email autolink="true"]jeffrey.snider@twu.ca[/safe-email]

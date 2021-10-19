@@ -19,5 +19,5 @@ hide_post_taxonomy: false
 continue_link_as_button: true
 feed:
     limit: 10
-    title: TOnE21
+    title: TOnE October 2021
 ---
