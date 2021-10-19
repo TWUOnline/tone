@@ -9,6 +9,3 @@ type: Event
 
 **Troika Consulting **  
 Challenge #1
-
-
-sdfsdfsdf

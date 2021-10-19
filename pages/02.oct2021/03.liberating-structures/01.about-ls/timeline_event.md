@@ -7,5 +7,4 @@ hide_git_sync_repo_link: false
 type: Event
 ---
 
-**Friday, February 26 - Friday, March 12**  
-Assessment, Measurement, and Grading
+**add info**  
