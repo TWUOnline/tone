@@ -22,7 +22,7 @@ feed:
 
 > "The student will be able to understand the concepts in this course."
 
-As instructional designers, we often have discussions with instructors about their course learning outcomes.  We try to tease of the meaning of the course by asking, "What are the Big Ideas and Essential Questions you want students to know and ask?  We also want to ensure course learning outcomes are SMART.
+As instructional designers, we often have discussions with instructors about their course learning outcomes.  We try to tease of the meaning of the course by asking, "What are the ***Big Ideas*** and ***Essential Questions*** you want students to know and ask?  We also want to ensure course learning outcomes are SMART.
 
 ![](SMART-goals.png)
 
@@ -44,7 +44,7 @@ Watch the following video for a brief explanation:
 This is where activities such as Visible Learning routines and Liberating Structures can help.  By guiding students through various problems, cases, questions, students can think critically and engage with the material, with each other, and with the instructor in a meaningful way.
 
 #### Visible Thinking Routines     
-These three videos explain Project Zero's Visible Thinking Routines and highlight how the routines can facilitate deeper learning.
+This video explains Project Zero's Visible Thinking Routines and highlight how the routines can facilitate deeper learning.
 
 [plugin:youtube](https://www.youtube.com/watch?v=oKV_S5NpDdc)
 
