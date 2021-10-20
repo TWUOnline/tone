@@ -7,6 +7,9 @@ cache_enable: false
 
 ## Workshop Contributors
 
+:fa-user: **Mara Chequer**, *Instructional Designer*  
+[safe-email autolink="true"]mara.chequer@twu.ca[/safe-email]
+
 :fa-user: **Jessica David**, *Instructional Designer*  
 [safe-email autolink="true"]jessica.david@twu.ca[/safe-email]
 
