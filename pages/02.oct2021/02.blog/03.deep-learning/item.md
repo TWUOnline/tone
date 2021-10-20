@@ -48,17 +48,11 @@ These three videos explain Project Zero's Visible Thinking Routines and highligh
 
 [plugin:youtube](https://www.youtube.com/watch?v=oKV_S5NpDdc)
 
-[plugin:youtube](https://www.youtube.com/watch?v=qXbdyhWIlC4)
-
-[plugin:youtube](https://www.youtube.com/watch?v=WJnRyFwF2vs)
 
 #### Liberating Structures   
 
 See our very own Barish Golland explaining Liberating Structures:
 [plugin:youtube](https://www.youtube.com/watch?v=Bwjkncen_OA)
-
-Here's one more example of using 1-2-4 all for online Zoom discussions
-[plugin:youtube](https://www.youtube.com/watch?v=fwtAwgPRVbY)   
 
 
 ### More to Explore!  
@@ -66,3 +60,6 @@ For more ideas, see the following resources:
 - Project Zero from Harvard Graduate School of Education (see [Thinking Routines](http://pz.harvard.edu/thinking-routines">Thinking Routines))
 - [What is Deep Learning?](https://teachingcommons.unt.edu/teaching-essentials/student-learning/what-deep-learning) from UNT Teaching Commons
 - [Designing Deeper Learning Experiences for Online Instruction](https://www.nbcc.org/Assets/COVID/DesigningDeeperLearningExperiencesforOnlineInstruction.pdf) by Betul C. Czerkawski
+- [The 3 Why's Thinking Routine](https://www.youtube.com/watch?v=qXbdyhWIlC4)
+- [Visual Thinking Routine: See, Think, Wonder](https://www.youtube.com/watch?v=WJnRyFwF2vs)
+- [Liberating Structures : 1-2-4-ALL](https://www.youtube.com/watch?v=fwtAwgPRVbY)   
