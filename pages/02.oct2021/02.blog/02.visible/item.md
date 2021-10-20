@@ -31,14 +31,14 @@ Visible Learning has received a lot of attention in recent years with John Hatti
 
 In Hattie’s The Applicability of Visible Learning to Higher Education he states: “To be successful, university teachers need to think of themselves as evaluators and ask about the merit, worth, and significance of the impact of their interventions—essentially, successful educators actively practice the Scholarship of Teaching and Learning (SoTL)” (80).
 
-Here is a summary of findings that have a high impact on learning:
+Here is a summary of findings that have a high impact on learning:  
 
-! :fa-check: When teachers believe their major role is to **evaluate their impact**;
-! :fa-check: When teachers **work together** to know and evaluate their impact;
-! :fa-check: When teachers base their teaching on students’ **prior learning** (what they bring to the lesson);
-! :fa-check: When teachers explicitly inform the students about **what success looks like** near the start of a series of lessons;
-! :fa-check: When teachers implement programs that have the optimal proportions of surface and **deep learning**; and
-! :fa-check: When teachers set appropriate levels of **challenge** and never expect ‘do your best’.
+! :fa-check: When teachers believe their major role is to **evaluate their impact**;  
+! :fa-check: When teachers **work together** to know and evaluate their impact;  
+! :fa-check: When teachers base their teaching on students’ **prior learning** (what they bring to the lesson);  
+! :fa-check: When teachers explicitly inform the students about **what success looks like** near the start of a series of lessons;  
+! :fa-check: When teachers implement programs that have the optimal proportions of surface and **deep learning**; and  
+! :fa-check: When teachers set appropriate levels of **challenge** and never expect ‘do your best’.  
 
 A key theme seems to be that instructors work together to evaluate their teaching strategies (so congratulations for those that participate in our TONE sessions!).  Despite the questionable data of Hattie’s research, a key take-away could be that when we try various active learning strategies and students demonstrate their learning, a crucial step is to evaluate whether the activity had an impact.
 

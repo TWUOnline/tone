@@ -1,5 +1,5 @@
 ---
-menu: 'Workshop Themes'
+menu: 'Themes'
 title: Themes
 published: true
 hide_page_title: true
