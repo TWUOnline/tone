@@ -32,21 +32,21 @@ Another red flag for instructional designers is the term ***understand***.  It i
 
 Or, you may want students to demonstrate critical thinking skills and attain a deeper understanding of the material.  ***Apply, evaluate, infer, create*** - these verbs suggest a deeper understanding is required to meet the learning outcome.
 
-### What is Deeper Learning?
+### What is Deeper Learning?   
 Deeper Learning involves higher order thinking skills and learning dispositions, such as reasoning, anaylzing, problem-solving, and teamwork.
 
-Watch the following video for a brief explanation:
-[plugin:youtube](https://www.youtube.com/watch?v=vLUFCxl5Zb4&t=26s)
+Watch the following video for a brief explanation:   
+[plugin:youtube](https://www.youtube.com/watch?v=vLUFCxl5Zb4)
 
 Here's another interesting video - also demonstrating using H5P as an interactive tool to promote engagement with the material.
 
 <iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=105" width="826" height="526" frameborder="0" allowfullscreen="allowfullscreen" title="How To Remember Everything You Learn"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
-### So how do you promote deep learning in your class?
+### So how do you promote deep learning in your class?    
 
 This is where activities such as Visible Learning routines and Liberating Structures can help.  By guiding students through various problems, cases, questions, students can think critically and engage with the material, with each other, and with the instructor in a meaningful way.
 
-#### Visible Thinking Routines
+#### Visible Thinking Routines     
 These three videos explain Project Zero's Visible Thinking Routines and highlight how the routines can facilitate deeper learning.
 
 [plugin:youtube](https://www.youtube.com/watch?v=oKV_S5NpDdc)
@@ -55,16 +55,16 @@ These three videos explain Project Zero's Visible Thinking Routines and highligh
 
 [plugin:youtube](https://www.youtube.com/watch?v=WJnRyFwF2vs)
 
-#### Liberating Structures
+#### Liberating Structures   
 
 See our very own Barish Golland explaining Liberating Structures:
 [plugin:youtube](https://www.youtube.com/watch?v=Bwjkncen_OA)
 
 Here's one more example of using 1-2-4 all for online Zoom discussions
-[plugin:youtube](https://www.youtube.com/watch?v=fwtAwgPRVbY)
+[plugin:youtube](https://www.youtube.com/watch?v=fwtAwgPRVbY)   
 
 
-### More to Explore!
+### More to Explore!  
 For more ideas, see the following resources:
 - Project Zero from Harvard Graduate School of Education (see [Thinking Routines](http://pz.harvard.edu/thinking-routines">Thinking Routines))
 - [What is Deep Learning?](https://teachingcommons.unt.edu/teaching-essentials/student-learning/what-deep-learning) from UNT Teaching Commons
