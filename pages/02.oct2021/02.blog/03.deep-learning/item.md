@@ -33,7 +33,7 @@ Another red flag for instructional designers is the term ***understand***.  It i
 Or, you may want students to demonstrate critical thinking skills and attain a deeper understanding of the material.  ***Apply, evaluate, infer, create*** - these verbs suggest a deeper understanding is required to meet the learning outcome.
 
 ### What is Deeper Learning?   
-Deeper Learning involves higher order thinking skills and learning dispositions, such as reasoning, anaylzing, problem-solving, and teamwork.
+Deeper Learning involves higher order thinking skills and learning dispositions, such as reasoning, analyzing, problem-solving, and teamwork.
 
 Watch the following video for a brief explanation:   
 [plugin:youtube](https://www.youtube.com/watch?v=vLUFCxl5Zb4)
