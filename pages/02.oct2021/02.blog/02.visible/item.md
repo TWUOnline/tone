@@ -26,7 +26,7 @@ feed:
 
 When we incorporate Visible Learning strategies into our course design, it should become much more clear not only what students are learning, but how “deep” their understanding is of a concept.
 
-### Visible Learning Background
+### Visible Learning
 Visible Learning has received a lot of attention in recent years with John Hattie as a prominent figure.  His 2008 meta-study, Visible Learning: A Synthesis of Over 800 Meta-Analyses Relating to Achievement seemed to present concrete data on what makes a difference in student’s learning.  Although his methodology has a number of flaws (see [Merhbi’s critique](https://www.evidencebasedteaching.org.au/wp-content/uploads/An-Objective-Critique-of-Hatties-Visible-Learning-Research.pdf) and [Killian’s critique](https://www.evidencebasedteaching.org.au/wp-content/uploads/An-Objective-Critique-of-Hatties-Visible-Learning-Research.pdf)), it opens up discussion as to what teachers can do to enhance student learning (and what may not make much of a difference).
 
 In Hattie’s The Applicability of Visible Learning to Higher Education he states: “To be successful, university teachers need to think of themselves as evaluators and ask about the merit, worth, and significance of the impact of their interventions—essentially, successful educators actively practice the Scholarship of Teaching and Learning (SoTL)” (80).
@@ -41,6 +41,14 @@ Here is a summary of findings that have a high impact on learning:
 ! :fa-check: When teachers set appropriate levels of **challenge** and never expect ‘do your best’.  
 
 A key theme seems to be that instructors work together to evaluate their teaching strategies (so congratulations for those that participate in our TONE sessions!).  Despite the questionable data of Hattie’s research, a key take-away could be that when we try various active learning strategies and students demonstrate their learning, a crucial step is to evaluate whether the activity had an impact.
+
+### Visible Pedagogy
+Connected to visible learning is **Visible Pedagogy** where instructors make their pedagogy more visible to learners so learners can understand their intentions.  An interesting read is Pete Wright's [Visible pedagogy and challenging inequity in school mathematics](https://hal.archives-ouvertes.fr/hal-02421688/document). Although the study focuses on high school math, there are certainly implications for Higher Education.
+
+Ask yourself,
+- Do your students understand why you choose the teaching methods you use? (e.g. Do students value class discussions and learning from each other?)
+- Is your reasoning behind your assignment choice implicit or explicit? (e.g. Do students value practicing APA formatting and realize the impact poor grammar may have in a professional context?)
+-
 
 ### Visible Learning Strategies
 So, what are some Visible Learning strategies you can try in your class?  Here are some ideas:
