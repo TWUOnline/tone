@@ -58,6 +58,7 @@ See our very own Barish Golland explaining Liberating Structures:
 ### More to Explore!  
 For more ideas, see the following resources:
 - Project Zero from Harvard Graduate School of Education (see [Thinking Routines](http://pz.harvard.edu/thinking-routines))
+- [Ch. 2 Surface and Deep Learning](https://granite.pressbooks.pub/teachingdiverselearners/chapter/surface-and-deep-learning-2/)
 - [What is Deep Learning?](https://teachingcommons.unt.edu/teaching-essentials/student-learning/what-deep-learning) from UNT Teaching Commons
 - [Designing Deeper Learning Experiences for Online Instruction](https://www.nbcc.org/Assets/COVID/DesigningDeeperLearningExperiencesforOnlineInstruction.pdf) by Betul C. Czerkawski
 - [The 3 Why's Thinking Routine](https://www.youtube.com/watch?v=qXbdyhWIlC4)
