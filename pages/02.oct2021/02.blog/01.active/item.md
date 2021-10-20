@@ -63,7 +63,8 @@ As you watch, consider how a tech tool might facilitate active learning and crit
 
 
 ### More to Explore!
-Check out the following resources on
-- [Best Practices: Active Learning](https://www.nyu.edu/faculty/teaching-and-learning-resources/strategies-for-teaching-with-tech/best-practices-active-learning.html)
-- See the section on [Active learning activity descriptions](https://teaching.uwo.ca/teaching/learning/active-learning.html)
-- [Center for Educational Innovation](https://cei.umn.edu/active-learning) from University of Minnesota (See Active Learning continuum and Making Time for Active Learning)
+
+Check out the following resources on Active Learning:  
+- [Best Practices: Active Learning](https://www.nyu.edu/faculty/teaching-and-learning-resources/strategies-for-teaching-with-tech/best-practices-active-learning.html)  
+- See the section on [Active learning activity descriptions](https://teaching.uwo.ca/teaching/learning/active-learning.html)  
+- [Center for Educational Innovation](https://cei.umn.edu/active-learning) from University of Minnesota (See Active Learning continuum and Making Time for Active Learning)  

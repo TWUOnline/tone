@@ -12,7 +12,7 @@ In our 2 hour workshop, participates will engage in a few activities from [Liber
 
 Feel free to follow along with our presentation.
 
-<iframe src="https://docs.google.com/presentation/d/1ILWfBea051FIeBL2ktMmqsXbmV2CyDzrgTTjXE_SHBg/edit?usp=sharing" width="382" height="837" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://docs.google.com/presentation/d/1ILWfBea051FIeBL2ktMmqsXbmV2CyDzrgTTjXE_SHBg/edit?usp=sharing" charset="UTF-8"></script>
+[to add]
 
 
 
