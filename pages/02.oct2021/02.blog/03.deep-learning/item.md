@@ -38,9 +38,6 @@ Deeper Learning involves higher order thinking skills and learning dispositions,
 Watch the following video for a brief explanation:   
 [plugin:youtube](https://www.youtube.com/watch?v=vLUFCxl5Zb4)
 
-Here's another interesting video - also demonstrating using H5P as an interactive tool to promote engagement with the material.
-
-<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=105" width="826" height="526" frameborder="0" allowfullscreen="allowfullscreen" title="How To Remember Everything You Learn"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 ### So how do you promote deep learning in your class?    
 
