@@ -61,6 +61,8 @@ As you watch, consider how a tech tool might facilitate active learning and crit
 
 <iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=253" width="382" height="837" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
+[h5p id="253"]
+
 
 ### More to Explore!
 
