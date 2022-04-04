@@ -73,7 +73,7 @@ Next, consider the following quote:
 !! ‘Can disorienting dilemmas be triggered by carefully designed exercises, and, if yes, what are the effects on student transformative learning?’
 !! *From [Putting transformative learning theory into practice](https://files.eric.ed.gov/fulltext/EJ1059138.pdf)*.
 
-How do we carfeully design exercises (activities & assessments) that transform learners?  How do we give them opportunities to explore and challenge their thinking?
+How do we carefully design exercises (activities & assessments) that transform learners?  How do we give them opportunities to explore and challenge their thinking?
 
 Watch the following video about Trinity's Inquiry-Based Learning approach.
 
