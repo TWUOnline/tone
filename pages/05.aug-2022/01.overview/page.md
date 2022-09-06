@@ -27,7 +27,7 @@ Moodle 4.0 will upgrade the user interface and key features, including:
 
 You can also view Moodle's own overview of New Features below.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Io8ZqAOnAsw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ## TONE session Recording:
 Please see the following training video that demonstrates some key features and changes of Moodle 4.0.
