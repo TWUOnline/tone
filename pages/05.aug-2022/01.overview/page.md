@@ -14,16 +14,17 @@ markdown:
 
 This summer there was a major upgrade for TWU’s Learning platform, Moodle.
 Here are some key benefits for faculty and students:
-Moodle 4.0 will upgrade the user interface and key features, including:
-•	Simple, friendly, and user-centered interface
-•	Simplified navigation on both desktop and mobile
-•	Improved course pages and dashboard
-•	Easy to view coursework completion status
-•	Improved calendar and timeline features
+
+Moodle 4.0 will upgrade the user interface and key features, including:  
+•	Simple, friendly, and user-centered interface  
+•	Simplified navigation on both desktop and mobile  
+•	Improved course pages and dashboard  
+•	Easy to view coursework completion status  
+•	Improved calendar and timeline features  
 
 
 ## Resources Available
-[To find out more about Moodle 4.0, please see our Knowledge Base Article on Moodle 4.0 (TWU sign-in required).](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/ArticleDet?ID=144779)
+To find out more about Moodle 4.0, please see our [Knowledge Base Article on Moodle 4.0 (TWU sign-in required).](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/ArticleDet?ID=144779)
 
 You can also view Moodle's own overview of New Features below.
 
@@ -44,4 +45,3 @@ Please sign up for a slot at the link below.
 
 <a class="embedly-card" data-card-controls="0" href="https://calendly.com/barish-golland-twu/moodle?month=2022-09">Moodle 4.0 Course Help - Barish Golland</a>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
-
