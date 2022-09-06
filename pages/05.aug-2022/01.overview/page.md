@@ -23,13 +23,19 @@ Moodle 4.0 will upgrade the user interface and key features, including:
 
 
 ## Resources Available
-To find out more about Moodle 4.0, please see our Knowledge Base Article on Moodle 4.0 (TWU sign-in required).
-You can also visit: Moodle New Features | Video: Find Your Way Around Moodle 4.0.
+[To find out more about Moodle 4.0, please see our Knowledge Base Article on Moodle 4.0 (TWU sign-in required).](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/ArticleDet?ID=144779)
+
+You can also view Moodle's own overview of New Features below.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Io8ZqAOnAsw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## TONE session Recording:
 Please see the following training video that demonstrates some key features and changes of Moodle 4.0.
+
 <div style='max-width: 640px'><div style='position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;'><iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/6adf68af-97bb-4d78-9539-ff918e358235?autoplay=false&showinfo=true" allowfullscreen style="border:none; position: absolute; top: 0; left: 0; right: 0; bottom: 0; height: 100%; max-width: 100%;"></iframe></div></div>
 
+<br>
+
 ## Book a 1:1 Moodle Tutorial
-Barish Golland, Senior Learning Technology Specialist for TWU, is available for 1:1 meetings with any faculty wishing to get a step-by-step walkthrough of Moodle 4.0.
-Please sign up for a slot here: Moodle 4.0 Tutorial Sign-up - Calendly
+Barish Golland, Senior Learning Technology Specialist for TWU, is available for 1:1 meetings with any faculty wishing to get a step-by-step walkthrough of Moodle 4.0.  
+[Please sign up for a slot at this link.](https://calendly.com/barish-golland-twu/moodle?month=2022-09) 
