@@ -39,4 +39,9 @@ Please see the following training video that demonstrates some key features and 
 
 ## Book a 1:1 Moodle Tutorial
 Barish Golland, Senior Learning Technology Specialist for TWU, is available for 1:1 meetings with any faculty wishing to get a step-by-step walkthrough of Moodle 4.0.  
-[Please sign up for a slot at this link.](https://calendly.com/barish-golland-twu/moodle?month=2022-09) 
+
+Please sign up for a slot at the link below.
+
+<a class="embedly-card" data-card-controls="0" href="https://calendly.com/barish-golland-twu/moodle?month=2022-09">Moodle 4.0 Course Help - Barish Golland</a>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
