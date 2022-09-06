@@ -27,13 +27,13 @@ Moodle 4.0 will upgrade the user interface and key features, including:
 
 You can also view Moodle's own overview of New Features below.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Io8ZqAOnAsw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style='max-width: 640px'><div style='position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;'><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Io8ZqAOnAsw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></div>
 
 
 ## TONE session Recording:
 Please see the following training video that demonstrates some key features and changes of Moodle 4.0.
 
-
+<div style='max-width: 640px'><div style='position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;'><iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/6adf68af-97bb-4d78-9539-ff918e358235?autoplay=false&showinfo=true" allowfullscreen style="border:none; position: absolute; top: 0; left: 0; right: 0; bottom: 0; height: 100%; max-width: 100%;"></iframe></div></div>
 
 <br>
 
