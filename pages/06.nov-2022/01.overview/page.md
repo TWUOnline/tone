@@ -3,6 +3,7 @@ title: Overview
 published: true
 hide_page_title: false
 show_sidebar: true
+header_image: false
 hide_git_sync_repo_link: false
 markdown:
   extra: false
