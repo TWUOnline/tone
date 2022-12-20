@@ -26,7 +26,7 @@ It is interesting to note that outside of education, the practice of grading is 
 
 > We know that while grades certainly have their limitations, they are not inherently good or bad. They are simply labels attached to different levels of student performance that describe in an abbreviated fashion how well students performed. These labels can be letters, numbers, words, phrases, or symbols. They can serve important formative purposes by helping students know where they are on the path to achieving specific learning goals.
 
-We also know that grades should always be based on clearly articulated learning criteria; not norm-based criteria. Grades derived from norm-based criteria — that is, ego-involving indicators of students’ relative standing among classmates — communicate nothing about what students have learned or are able to do.(Guskey, 2019)
+> We also know that grades should always be based on clearly articulated learning criteria; not norm-based criteria. Grades derived from norm-based criteria — that is, ego-involving indicators of students’ relative standing among classmates — communicate nothing about what students have learned or are able to do.(Guskey, 2019)
 
 ---
 
@@ -45,7 +45,7 @@ Some have been tempted to aim for a normal distribution of grades in their cours
 
 The symbol to represent a student's learning isn't the problem with grading, but how and what we grade is. Grading that moves away from ranking and sorting students (ego-involving, norm-based) and towards individualized feedback based on criteria can increase student learning (Kohn, 1994). These comments can be any communication directly related to student work, and it can address their learning gaps, or their opportunities to grow, and celebrates their successes.  Grading for the purpose of providing quality feedback to deepen student understanding shifts learning from a transactional model (I do this work to get a good grade) to an interactional and transformative model (we do this to grow).  This type of grading (or learning) also helps students
 
-> understand that grades do not reflect who you are as a learner, but where you are in your learning journey — ***and where is always temporary.*** Knowing where you are is essential to understanding where you need to go in order to improve" (Guskey, 2019, para. 20, emphasis added).  
+> understand that grades do not reflect who you are as a learner, but where you are in your learning journey — ***and where is always temporary.*** Knowing where you are is essential to understanding where you need to go in order to improve (Guskey, 2019, para. 20, emphasis added).  
 
 In other words, students can *do* something with quality feedback.  
 
