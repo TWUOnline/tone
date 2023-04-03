@@ -9,5 +9,6 @@ card_width: '3'
 content:
     order:
         by: folder
-        dir: asc
+        dir: desc
 ---
+
