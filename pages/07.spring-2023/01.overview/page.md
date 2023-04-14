@@ -9,7 +9,7 @@ markdown:
   extra: false
 ---
 
-![](2_3quality.png)
+![](2_4quality.png)
 
 ## QUALITY SERIES
 
