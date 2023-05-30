@@ -41,8 +41,9 @@ Thank you to all who joined our session!  Here is the recording, as well as some
 <iframe src="https://player.vimeo.com/video/831624991?h=e3b63b59e4&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="730" height="411" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="TONE 04.28.2023: Quality Series - Structure"></iframe>
 
 - [Workshop Content](https://multi-access.twu.ca/learning-design/quality)  
+- [Zoom Whiteboard](https://zoom.us/wb/doc/gXNU36k0QmCGeXeeLdDH_w/p/76603386915)  
 - [Perusall](https://www.perusall.com)  
-- [TWU OL Course Template](https://learn.twu.ca/course/view.php?id=23624&section=0#tabs-tree-start) (Enrolment key: TWUOL) *note that the enrolment key is case sensitive.
+- [TWU OL Course Template](https://learn.twu.ca/course/view.php?id=23624&section=0#tabs-tree-start) (Enrolment key: TWUOL) *note that the enrolment key is case sensitive.  
 
 ### INCLUSION - Inclusion in Online Courses
 
