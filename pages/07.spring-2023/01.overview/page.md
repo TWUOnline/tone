@@ -49,3 +49,13 @@ Thank you to all who joined our session!  Here is the recording, as well as some
 
 ! Date: June 30, 2023 @ 11:00am 
 ! **Zoom**: See email invitation for the Zoom link
+
+Thank you to all who joined our session!  Here is the recording as well as some key links.
+
+<iframe src="https://player.vimeo.com/video/856829462?h=e6a7b60478&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="730" height="411" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="TONE 06.30.2023: Quality Series - Inclusion"></iframe>
+
+- [Quality Checklist (Google Doc)](https://docs.google.com/document/d/1O36WYMLFnjbSGnstodHGLOQ1Ee7NT1wnWnZ8y0uLMSk/edit)  
+- [Make your PowerPoint Presentations Accessible](https://support.microsoft.com/en-us/office/make-your-powerpoint-presentations-accessible-to-people-with-disabilities-6f7772b2-2f33-4bd2-8ca7-dae3b2b3ef25)  
+- [Blackboard Ally Instructor's Guide](https://help.blackboard.com/Ally/Ally_for_LMS/Instructor)  
+- [Accessibility Checker](https://www.accessibilitychecker.org)  
+- [TWU Accessibility Services](https://www.twu.ca/learning-commons/centre-accessible-learning/accessibility-services)  
