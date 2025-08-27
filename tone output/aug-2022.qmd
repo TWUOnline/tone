@@ -1,0 +1,87 @@
+
+## Important Reminders
+
+- This course is scheduled to begin Monday April 6, 2020.
+
+![](assets/aug-2022/rsz_tone.jpg){fig-alt="" .lightbox}
+
+
+## Moodle 4.0 Upgrade Summer 2022
+
+This summer there was a major upgrade for TWU's Learning platform, Moodle.
+Here are some key benefits for faculty and students:
+
+Moodle 4.0 will upgrade the user interface and key features, including:
+• Simple, friendly, and user-centered interface
+• Simplified navigation on both desktop and mobile
+• Improved course pages and dashboard
+• Easy to view coursework completion status
+• Improved calendar and timeline features
+
+
+### Resources Available {.unnumbered}
+
+To find out more about Moodle 4.0, please see our [Knowledge Base Article on Moodle 4.0 (TWU sign-in required).](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/ArticleDet?ID=144779){target="_blank"}
+
+You can also view Moodle's own overview of New Features below.
+
+::: video-container
+
+{{< video https://www.youtube-nocookie.com/embed/Io8ZqAOnAsw >}}
+
+:::
+
+
+## TONE session Recording:
+
+Please see the following training video that demonstrates some key features and changes of Moodle 4.0.
+
+::: video-container
+
+{{< video https://web.microsoftstream.com/embed/video/6adf68af-97bb-4d78-9539-ff918e358235?autoplay=false&showinfo=true >}}
+
+:::
+
+
+## Book a 1:1 Moodle Tutorial
+
+Barish Golland, Senior Learning Technology Specialist for TWU, is available for 1:1 meetings with any faculty wishing to get a step-by-step walkthrough of Moodle 4.0.
+
+Please sign up for a slot at the link below.
+
+[Moodle 4.0 Course Help - Barish Golland](https://calendly.com/barish-golland-twu/moodle?month=2022-09)
+
+
+## Moodle 4.0 Upgrade Summer 2022
+
+This summer there was a major upgrade for TWU's Learning platform, Moodle.
+Here are some key benefits for faculty and students:
+Moodle 4.0 will upgrade the user interface and key features, including:
+• Simple, friendly, and user-centered interface
+• Simplified navigation on both desktop and mobile
+• Improved course pages and dashboard
+• Easy to view coursework completion status
+• Improved calendar and timeline features
+
+
+### Resources Available {.unnumbered}
+
+To find out more about Moodle 4.0, please see our Knowledge Base Article on Moodle 4.0 (TWU sign-in required).
+You can also visit: Moodle New Features | Video: Find Your Way Around Moodle 4.0.
+
+
+## TONE session Recording:
+
+Please see the following training video that demonstrates some key features and changes of Moodle 4.0.
+
+::: video-container
+
+{{< video https://web.microsoftstream.com/embed/video/6adf68af-97bb-4d78-9539-ff918e358235?autoplay=false&showinfo=true >}}
+
+:::
+
+
+## Book a 1:1 Moodle Tutorial
+
+Barish Golland, Senior Learning Technology Specialist for TWU, is available for 1:1 meetings with any faculty wishing to get a step-by-step walkthrough of Moodle 4.0.
+Please sign up for a slot here: Moodle 4.0 Tutorial Sign-up - Calendly

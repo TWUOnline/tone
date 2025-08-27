@@ -1,0 +1,883 @@
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide01.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide02a.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide03.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide04.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide05.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide06.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide07.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide08.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide09.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide10.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide11.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide13.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide12.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide14.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide15.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide16.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide17.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide18.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide19.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide20.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide21.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide22.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide23.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide24.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide25.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide26.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide27a.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide28.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide29.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide30.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide31.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide32.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide33.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide34.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide35.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide36.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide37.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide38.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide39.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide40.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide42a.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide43a.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide44a.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide45a.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide46a.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide47.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide48.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide49.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide50.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide51.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide52.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide53.png){fig-alt="" .lightbox}
+
+
+# Contact
+
+[Kelly Marjanovic](mailto:kelly.marjanovic@twu.ca)
+
+[Colin Madland](mailto:colin.madland@twu.ca)
+
+[Scott Macklin](mailto:scott.macklin@twu.ca)
+
+[Brenda-Lee Sasaki](mailto:brenda-lee.sasaki@twu.ca)
+
+[https://create.twu.ca/coursedesign](https://create.twu.ca/coursedesign){target="_blank"}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide01.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide02a.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide03.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide04.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide05.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide06.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide07.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide08.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide09.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide10.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide11.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide13.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide12.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide14.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide15.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide16.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide17.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide18.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide19.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide20.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide21.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide22.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide23.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide24.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide25.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide26.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide27a.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide28.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide29.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide30.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide31.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide32.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide33.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide34.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide35.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide36.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide37.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide38.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide39.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide40.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide42a.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide43a.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide44a.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide45a.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide46a.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide47.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide48.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide49.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide50.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide51.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide52.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide53.png){fig-alt="" .lightbox}
+
+
+# Contact
+
+[Kelly Marjanovic](mailto:kelly.marjanovic@twu.ca)
+
+[Colin Madland](mailto:colin.madland@twu.ca)
+
+[Scott Macklin](mailto:scott.macklin@twu.ca)
+
+[Brenda-Lee Sasaki](mailto:brenda-lee.sasaki@twu.ca)
+
+[https://create.twu.ca/coursedesign](https://create.twu.ca/coursedesign){target="_blank"}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide01.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide02a.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide03.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide04.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide05.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide06.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide07.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide08.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide09.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide10.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide11.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide13.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide12.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide14.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide15.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide16.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide17.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide18.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide19.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide20.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide21.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide22.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide23.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide24.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide25.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide26.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide27a.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide28.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide29.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide30.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide31.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide32.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide33.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide34.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide35.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide36.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide37.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide38.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide39.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide40.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide42a.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide43a.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide44a.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide45a.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide46a.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide47.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide48.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide49.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide50.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide51.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide52.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide53.png){fig-alt="" .lightbox}
+
+
+# Contact
+
+[Kelly Marjanovic](mailto:kelly.marjanovic@twu.ca)
+
+[Colin Madland](mailto:colin.madland@twu.ca)
+
+[Scott Macklin](mailto:scott.macklin@twu.ca)
+
+[Brenda-Lee Sasaki](mailto:brenda-lee.sasaki@twu.ca)
+
+[https://create.twu.ca/coursedesign](https://create.twu.ca/coursedesign){target="_blank"}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide01.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide02a.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide03.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide04.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide05.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide06.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide07.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide08.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide09.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide10.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide11.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide13.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide12.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide14.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide15.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide16.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide17.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide18.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide19.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide20.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide21.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide22.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide23.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide24.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide25.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide26.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide27a.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide28.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide29.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide30.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide31.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide32.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide33.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide34.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide35.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide36.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide37.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide38.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide39.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide40.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide42a.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide43a.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide44a.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide45a.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide46a.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide47.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide48.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide49.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide50.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide51.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide52.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/01.activities-assessments/Slide53.png){fig-alt="" .lightbox}
+
+
+# Contact
+
+[Kelly Marjanovic](mailto:kelly.marjanovic@twu.ca)
+
+[Colin Madland](mailto:colin.madland@twu.ca)
+
+[Scott Macklin](mailto:scott.macklin@twu.ca)
+
+[Brenda-Lee Sasaki](mailto:brenda-lee.sasaki@twu.ca)
+
+[https://create.twu.ca/coursedesign](https://create.twu.ca/coursedesign){target="_blank"}

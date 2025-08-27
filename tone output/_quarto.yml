@@ -1,0 +1,85 @@
+# version 3.3
+
+project:
+  type: book
+  output-dir: docs
+
+# Info on changing metadata labels: https://quarto.org/docs/authoring/title-blocks.html#metadata-labels
+published-title: "Last Modified"
+author-title: "Authors"
+
+book:
+  title: "COURSE NAME"
+  author: "TWU Online"
+  date: "last-modified"
+  date-format: "MMM D, YYYY"
+  search: true
+  chapters:
+    - index.qmd
+    - .06.nov-2022.qmd
+    - april-2020.qmd
+    - aug-2022.qmd
+    - may-2020.qmd
+    - oct2021.qmd
+    - spring-2023.qmd
+#    - assignment1.qmd
+#    - assignment2.qmd
+#    - assignment3.qmd
+#    - course_assessment.qmd
+#    - cheatsheet.qmd
+
+# Note: If you do not have any Zotero references, you should disable the 'references.qmd' file or else it will cause an error when rendering.
+#    - references.qmd
+
+# References
+bibliography: https://twuonline.github.io/course-materials/quarto/references.bib
+csl: https://twuonline.github.io/course-materials/quarto/apa.csl
+link-bibliography: true
+link-citations: false
+
+# Lua Filters
+filters:
+  - at: pre-ast
+    path: yml-assets/pre.lua
+  - at: post-render
+    path: yml-assets/post.lua
+
+# Add templete for block
+title-block-banner: true
+
+# ------- Format Specific Settings -------
+
+format:
+  # Format - HTML
+  html:
+    template-partials: yml-assets/title-block.html
+
+    sidebar:
+      style: "docked"
+      search: true
+    css: https://twuonline.github.io/course-materials/quarto/twu_styles.css
+    toc-depth: 4
+    toc: true
+    toc-title: On This Page
+    theme: cosmo
+    # The line below  should only be enabled to locally test css before moving it to the main css file in course materials.
+    #theme: [cosmo, yml-assets/test.scss]
+    include-in-header:
+      - text: |
+          <script type="application/javascript" src="https://twuonline.github.io/course-materials/quarto/twu_global_header.js"></script>
+          <link rel = "shortcut icon" href = "https://twuonline.github.io/course-materials/quarto/favicon.ico" />
+
+  # # Format - PDF
+  #   pdf:
+  #     documentclass: scrreprt
+
+  # Format - Doc
+  docx:
+    toc: false
+    number-sections: true
+    highlight-style: github
+  #   cite-method: biblatex
+# Fig captions
+fig-cap-location: top
+lightbox:
+  desc-position: top

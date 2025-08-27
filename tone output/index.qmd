@@ -1,0 +1,24 @@
+# Welcome {.unnumbered}
+
+This is the course book for **COURSE NUMBER**. This book is divided into thematic units of study to help you engage with the materials. The course resources and learning activities are designed not only to help prepare you for the course assessments, but also to give you opportunities to practice various skills.
+
+::: {.note}
+
+*Note:* Please read the full course syllabus located on the Course Home page in Moodle. It includes key information about the course schedule, assignments, and policies. 
+
+:::
+
+## Course Activities {.unnumbered}
+
+Below is some key information on features you may see throughout the course.
+
+::: {.learning-activity}
+
+This box will prompt you to engage in course concepts by:
+
+- Viewing resources and reflecting on your experience and/or learning. 
+- Checking your understanding to make sure you are ready for what follows. Ways to check your learning might include self-check quizzes or questions for discussion.
+
+*Note:* Working through course activities will help you to meet the learning outcomes and successfully complete your assessments.
+
+:::

@@ -1,0 +1,883 @@
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide01.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide02a.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide03.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide04.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide05.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide06.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide07.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide08.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide09.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide10.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide11.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide13.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide12.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide14.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide15.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide16.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide17.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide18.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide19.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide20.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide21.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide22.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide23.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide24.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide25.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide26.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide27a.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide28.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide29.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide30.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide31.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide32.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide33.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide34.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide35.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide36.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide37.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide38.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide39.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide40.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide42a.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide43a.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide44a.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide45a.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide46a.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide47.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide48.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide49.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide50.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide51.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide52.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide53.png){fig-alt="" .lightbox}
+
+
+# Contact
+
+[Kelly Marjanovic](mailto:kelly.marjanovic@twu.ca)
+
+[Colin Madland](mailto:colin.madland@twu.ca)
+
+[Scott Macklin](mailto:scott.macklin@twu.ca)
+
+[Brenda-Lee Sasaki](mailto:brenda-lee.sasaki@twu.ca)
+
+[https://create.twu.ca/coursedesign](https://create.twu.ca/coursedesign){target="_blank"}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide01.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide02a.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide03.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide04.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide05.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide06.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide07.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide08.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide09.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide10.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide11.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide13.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide12.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide14.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide15.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide16.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide17.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide18.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide19.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide20.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide21.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide22.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide23.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide24.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide25.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide26.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide27a.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide28.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide29.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide30.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide31.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide32.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide33.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide34.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide35.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide36.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide37.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide38.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide39.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide40.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide42a.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide43a.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide44a.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide45a.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide46a.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide47.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide48.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide49.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide50.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide51.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide52.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide53.png){fig-alt="" .lightbox}
+
+
+# Contact
+
+[Kelly Marjanovic](mailto:kelly.marjanovic@twu.ca)
+
+[Colin Madland](mailto:colin.madland@twu.ca)
+
+[Scott Macklin](mailto:scott.macklin@twu.ca)
+
+[Brenda-Lee Sasaki](mailto:brenda-lee.sasaki@twu.ca)
+
+[https://create.twu.ca/coursedesign](https://create.twu.ca/coursedesign){target="_blank"}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide01.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide02a.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide03.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide04.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide05.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide06.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide07.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide08.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide09.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide10.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide11.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide13.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide12.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide14.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide15.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide16.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide17.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide18.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide19.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide20.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide21.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide22.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide23.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide24.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide25.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide26.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide27a.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide28.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide29.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide30.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide31.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide32.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide33.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide34.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide35.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide36.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide37.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide38.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide39.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide40.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide42a.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide43a.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide44a.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide45a.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide46a.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide47.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide48.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide49.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide50.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide51.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide52.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide53.png){fig-alt="" .lightbox}
+
+
+# Contact
+
+[Kelly Marjanovic](mailto:kelly.marjanovic@twu.ca)
+
+[Colin Madland](mailto:colin.madland@twu.ca)
+
+[Scott Macklin](mailto:scott.macklin@twu.ca)
+
+[Brenda-Lee Sasaki](mailto:brenda-lee.sasaki@twu.ca)
+
+[https://create.twu.ca/coursedesign](https://create.twu.ca/coursedesign){target="_blank"}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide01.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide02a.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide03.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide04.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide05.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide06.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide07.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide08.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide09.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide10.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide11.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide13.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide12.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide14.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide15.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide16.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide17.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide18.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide19.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide20.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide21.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide22.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide23.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide24.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide25.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide26.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide27a.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide28.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide29.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide30.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide31.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide32.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide33.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide34.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide35.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide36.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide37.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide38.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide39.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide40.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide42a.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide43a.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide44a.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide45a.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide46a.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide47.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide48.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide49.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide50.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide51.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide52.png){fig-alt="" .lightbox}
+
+[.background-color: #FFFFFF]
+
+![fit](../assets/presentations/03.far/Slide53.png){fig-alt="" .lightbox}
+
+
+# Contact
+
+[Kelly Marjanovic](mailto:kelly.marjanovic@twu.ca)
+
+[Colin Madland](mailto:colin.madland@twu.ca)
+
+[Scott Macklin](mailto:scott.macklin@twu.ca)
+
+[Brenda-Lee Sasaki](mailto:brenda-lee.sasaki@twu.ca)
+
+[https://create.twu.ca/coursedesign](https://create.twu.ca/coursedesign){target="_blank"}

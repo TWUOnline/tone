@@ -1,0 +1,1 @@
+This site was built using [Grav](http://getgrav.org){target="_blank"} and the [Open Matter Course Hub](http://learn.hibbittsdesign.org/coursehub){target="_blank"} skeleton package by [hibbittsdesign.org](http://hibbittsdesign.org){target="_blank"}
